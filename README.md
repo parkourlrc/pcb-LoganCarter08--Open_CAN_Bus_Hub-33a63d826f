@@ -2,6 +2,8 @@
 
 An open source alternative to a CAN bus hub primarily used in aftermarket automotive industry.
 
+This project is migrating to Codeberg to avoid some changes being made by Microsoft. Future updates will be [here](https://codeberg.org/Open_CAN_Bus/Open_CAN_Hub). 
+
 ## Overview
 
 This project is intended to reduce the cost of a simple part needed for many project cars. If you are building a car and need to add aftermarket equipment via CAN bus you will likely need a hub of some sort to distribute the network to each of your devices.
